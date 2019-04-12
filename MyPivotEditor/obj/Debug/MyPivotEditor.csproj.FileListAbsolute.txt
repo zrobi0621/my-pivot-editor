@@ -1,0 +1,15 @@
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\bin\Debug\MyPivotEditor.exe.config
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\bin\Debug\MyPivotEditor.exe
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\bin\Debug\MyPivotEditor.pdb
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MyPivotEditor.csprojAssemblyReference.cache
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\App.g.cs
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MyPivotEditor_MarkupCompile.cache
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MyPivotEditor_MarkupCompile.lref
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MainWindow.baml
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MyPivotEditor.g.resources
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MyPivotEditor.Properties.Resources.resources
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MyPivotEditor.csproj.GenerateResource.cache
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MyPivotEditor.csproj.CoreCompileInputs.cache
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MyPivotEditor.exe
+D:\Projects\C#\MyPivotEditor\MyPivotEditor\obj\Debug\MyPivotEditor.pdb
